@@ -1,4 +1,4 @@
-# submission-mpk
+# Submission-MPK
 Dicoding: Memulai Pemrograman Dengan Kotlin - Submission
 
 **Aturan mengerjakan submission**<br>
