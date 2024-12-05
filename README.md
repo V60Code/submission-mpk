@@ -1,5 +1,4 @@
-# Submission-MPK
-Dicoding: Memulai Pemrograman Dengan Kotlin - Submission
+# Proyek Submission MPK 
 
 **Aturan mengerjakan submission**<br>
 Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
